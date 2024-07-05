@@ -22,6 +22,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/praca451/DisasterTweetsNLP.git
+
 cd DisasterTweetsNLP
 
 Load the Jupyter Notebook:
