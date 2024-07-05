@@ -56,7 +56,7 @@ tweet = "There's a forest fire at spot X"
 # Make a prediction
 prediction = model.predict([preprocessed_tweet])
 print("Disaster Tweet" if prediction > 0.5 else "Not a Disaster Tweet")
-
+```
 
 Contributing
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or create a pull request.
