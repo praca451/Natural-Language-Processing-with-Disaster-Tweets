@@ -21,9 +21,9 @@ Usage
 Clone the repository:
 
 ```bash
-git clone https://github.com/praca451/DisasterTweetsNLP.git
+git clone https://github.com/praca451/Natural-Language-Processing-with-Disaster-Tweets.git
+cd Natural-Language-Processing-with-Disaster-Tweets
 
-cd DisasterTweetsNLP
 ```
 Load the Jupyter Notebook:
 Open notebook.ipynb in Jupyter Notebook or JupyterLab to view and execute the code cells.
