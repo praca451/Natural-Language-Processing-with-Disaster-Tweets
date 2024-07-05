@@ -36,7 +36,7 @@ Evaluate the model’s performance using accuracy, precision, recall, and F1 sco
 Example
 Here’s a brief example of how to load and use the trained model to make predictions:
 
-import tensorflow as tf
+( "python" import tensorflow as tf
 import pandas as pd
 
 # Load the trained model
@@ -50,7 +50,7 @@ tweet = "There's a forest fire at spot X"
 
 # Make a prediction
 prediction = model.predict([preprocessed_tweet])
-print("Disaster Tweet" if prediction > 0.5 else "Not a Disaster Tweet")
+print("Disaster Tweet" if prediction > 0.5 else "Not a Disaster Tweet"))
 
 
 Contributing
