@@ -14,10 +14,13 @@ Evaluation: Assessing the performance of the trained model on test data.
 Installation
 To run the code in this repository, you will need to install the necessary Python libraries. The primary libraries used include TensorFlow, Pandas, and Scikit-learn.
 
+```bash
 pip install tensorflow pandas scikit-learn
 
 Usage
 Clone the repository:
+
+```bash
 git clone https://github.com/praca451/DisasterTweetsNLP.git
 cd DisasterTweetsNLP
 
