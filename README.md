@@ -16,13 +16,13 @@ To run the code in this repository, you will need to install the necessary Pytho
 
 ```bash
 pip install tensorflow pandas scikit-learn
-
+```
 Usage
 Clone the repository:
 
 ```bash
 git clone https://github.com/praca451/DisasterTweetsNLP.git
-
+```
 cd DisasterTweetsNLP
 
 Load the Jupyter Notebook:
