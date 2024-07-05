@@ -22,9 +22,9 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/praca451/DisasterTweetsNLP.git
-```
-cd DisasterTweetsNLP
 
+cd DisasterTweetsNLP
+```
 Load the Jupyter Notebook:
 Open notebook.ipynb in Jupyter Notebook or JupyterLab to view and execute the code cells.
 
